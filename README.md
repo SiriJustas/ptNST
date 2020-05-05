@@ -1,17 +1,13 @@
 # ptNST
 
-### Style used in primary results:
-![Style used in primary results](style.jpg)
+### Primary video used in experiments:
 
-### Primary video:
 Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 [0:04-0:06]
-![Alt Text](vgtu_org.gif)
+<img src="vgtu_org.gif" width="910" height="512" align="center">
 
-### Video after NST with 100 steps and 10000:1 weights (Style/Content)
-![Alt Text](vgtuV1_100_10000.gif)
+### Experiments:
 
-### Video after NST with 200 steps and 10000:1 weights (Style/Content)
-In this case 4 frames were damaged (this means, that they were impacted too much) and were removed by hand before merging frames into video sequence. 
+<img src="style.jpg" width="410" height="256" align="left">
+<img src="vgtuV1_100_10000.gif" width="410" height="256" align="right">
 
-![Alt Text](vgtuv2_200_10000.gif)
