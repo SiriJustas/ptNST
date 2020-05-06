@@ -132,7 +132,7 @@ def get_input_optimizer(input_img):
     return optimizer
 
 def run_style_transfer(cnn, normalization_mean, normalization_std,
-                       content_img, style_img, input_img, num_steps=200,
+                       content_img, style_img, input_img, num_steps=500,
                        style_weight=10000, content_weight=1):
     """Run the style transfer."""
     print('Building the style transfer model..')
@@ -193,7 +193,7 @@ i = 1
 for filename in sorted(glob.glob('frames/*.png'), key=os.path.getmtime):
     print (filename)
 
-    style_img = image_loader("style.jpg")
+    style_img = image_loader("styles/style9.jpg")
     content_img = image_loader(filename)
 
     assert style_img.size() == content_img.size(), \

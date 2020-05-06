@@ -8,15 +8,9 @@ import shutil
 from os import walk
 
 def  saveVideo(frameR):
-	dirpath = Path(os.getcwd(), 'output')
-	if dirpath.exists() and dirpath.is_dir():
-	    shutil.rmtree(dirpath)
-
-	os.mkdir('output')
-
-	print('Starting to merge frames')
+	print('Starting to merge frames into video \n')
 	img_array = []
-	for filename in sorted(glob.glob('frames/*.jpg'), key=os.path.getmtime):
+	for filename in sorted(glob.glob('output/*.png'), key=os.path.getmtime):
 	    img = cv2.imread(filename)
 	    print(filename)
 	    height, width, layers = img.shape
