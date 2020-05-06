@@ -20,8 +20,8 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 ### Experiments:
 ## style_weight=10000
 
-<img src="styles/style.jpg" width="410" height="256" align="left"></img>
-<img src="examples/vgtuV1_100_10000.gif" width="410" height="256" align="right"></img>
+<img src="styles/style.jpg" width="415" height="256" align="left" style="margin:0px;padding:0px"></img>
+<img src="examples/vgtuV1_100_10000.gif" width="415" height="256" align="left" style="margin:0px;padding:0px"></img>
 
 <img src="styles/style2.jpg" width="410" height="256" align="left"></img>
 <img src="examples/vgtuV2_100_10000.gif" width="410" height="256" align="right"></img>
