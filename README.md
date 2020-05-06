@@ -18,8 +18,10 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 <img src="examples/vgtu_org.gif" width="910" height="512" align="center">
 
 ### Experiments:
-## style_weight=10000
 
+<div width="100%" align="left">
+  <b>style_weight=10000:</b>
+</div>
 <div>
   <img src="styles/style.jpg" width="410" height="256" align="left"></img>
   <img src="examples/vgtuV1_100_10000.gif" width="410" height="256" align="right"></img>
@@ -47,6 +49,9 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 
   <img src="styles/style9.jpg" width="410" height="256" align="left"></img>
   <img src="examples/vgtuV9_100_10000.gif" width="410" height="256" align="right"></img>
+</div>
+<div width="100%" align="left">
+  <b>style_weight=1000000:</b>
 </div>
 <div>
   <img src="styles/style10.jpg" width="410" height="256" align="left"></img>
