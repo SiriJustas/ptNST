@@ -19,53 +19,50 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 
 ### Experiments:
 
-<div width="100%" align="left" display="block">
+<div width="800px" align="left" display="block">
   <b>style_weight=10000:</b>
 </div>
 </br>
 </br>
 <div>
-  <img src="styles/style.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV1_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style2.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style2.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV2_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style3.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style3.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV3_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style4.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style4.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV4_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style5.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style5.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV5_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style6.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style6.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV6_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style7.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style7.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV7_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style8.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style8.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV8_100_10000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style9.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style9.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV9_100_10000.gif" width="410" height="256" align="right"></img>
 </div>
-</br>
-<div width="100%" align="left" display="block">
+<div width="800px" align="left" display="block" style="margin=100px">
   <b>style_weight=1000000:</b>
 </div>
-</br>
-</br>
 <div>
-  <img src="styles/style10.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style10.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV10_100_1000000.gif" width="410" height="256" align="right"></img>
     
-  <img src="styles/style11.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style11.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV11_100_1000000.gif" width="410" height="256" align="right"></img>
 
-  <img src="styles/style12.jpg" width="410" height="256" align="left"></img>
+  <img src="styles/style12.jpg" width="420" height="256" align="left"></img>
   <img src="examples/vgtuV12_100_1000000.gif" width="410" height="256" align="right"></img>
 </div>
 
