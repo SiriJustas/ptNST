@@ -18,8 +18,7 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 <img src="examples/vgtu_org.gif" width="910" height="512" align="center">
 
 ### Experiments:
-**num_steps=100**
-**style_weight=10000**
+## style_weight=10000
 
 <img src="styles/style.jpg" width="410" height="256" align="left">
 <img src="examples/vgtuV1_100_10000.gif" width="410" height="256" align="right">
@@ -48,8 +47,8 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 <img src="styles/style9.jpg" width="410" height="256" align="left">
 <img src="examples/vgtuV9_100_10000.gif" width="410" height="256" align="right">
 
-**num_steps=100**
-**style_weight=1000000**
+
+### style_weight=1000000
 
 <img src="styles/style10.jpg" width="410" height="256" align="left">
 <img src="examples/vgtuV10_100_1000000.gif" width="410" height="256" align="right">
