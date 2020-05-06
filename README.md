@@ -48,14 +48,14 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
   <img src="styles/style9.jpg" width="410" height="256" align="left"></img>
   <img src="examples/vgtuV9_100_10000.gif" width="410" height="256" align="right"></img>
 </div>
-
 <div>
-    <img src="styles/style10.jpg" width="410" height="256" align="left"></img></img>
-    <img src="examples/vgtuV10_100_1000000.gif" width="410" height="256" align="right"></img>
+  <img src="styles/style10.jpg" width="410" height="256" align="left"></img>
+  <img src="examples/vgtuV10_100_1000000.gif" width="410" height="256" align="right"></img>
+    
+  <img src="styles/style11.jpg" width="410" height="256" align="left"></img>
+  <img src="examples/vgtuV11_100_1000000.gif" width="410" height="256" align="right"></img>
 
-    <img src="styles/style11.jpg" width="410" height="256" align="left"></img>
-    <img src="examples/vgtuV11_100_1000000.gif" width="410" height="256" align="right"></img>
-
-    <img src="styles/style12.jpg" width="410" height="256" align="left"></img>
-    <img src="examples/vgtuV12_100_1000000.gif" width="410" height="256" align="right"></img>
+  <img src="styles/style12.jpg" width="410" height="256" align="left"></img>
+  <img src="examples/vgtuV12_100_1000000.gif" width="410" height="256" align="right"></img>
 </div>
+
