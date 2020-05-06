@@ -6,9 +6,10 @@
 - **Pretrained VGG19**
 - **content_layers_default = ['conv_4']**
 - **style_layers_default = ['conv_1', 'conv_2', 'conv_3', 'conv_4', 'conv_5']**
-- **num_steps=100**
-- **style_weight=10000**
 - **content_weight=1**
+
+###Note:
+All images which are used as style are random taken from internet and has not been created or modified (except resolution) by project author.
 
 ### Primary video used in experiments:
 
@@ -17,6 +18,8 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 <img src="examples/vgtu_org.gif" width="910" height="512" align="center">
 
 ### Experiments:
+- **num_steps=100**
+- **style_weight=10000**
 
 <img src="styles/style.jpg" width="410" height="256" align="left">
 <img src="examples/vgtuV1_100_10000.gif" width="410" height="256" align="right">
@@ -44,3 +47,15 @@ Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 
 <img src="styles/style9.jpg" width="410" height="256" align="left">
 <img src="examples/vgtuV9_100_10000.gif" width="410" height="256" align="right">
+
+- **num_steps=100**
+- **style_weight=1000000**
+
+<img src="styles/style10.jpg" width="410" height="256" align="left">
+<img src="examples/vgtuV10_100_1000000.gif" width="410" height="256" align="right">
+
+<img src="styles/style11.jpg" width="410" height="256" align="left">
+<img src="examples/vgtuV11_100_1000000.gif" width="410" height="256" align="right">
+
+<img src="styles/style12.jpg" width="410" height="256" align="left">
+<img src="examples/vgtuV12_100_1000000.gif" width="410" height="256" align="right">
