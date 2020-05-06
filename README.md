@@ -14,7 +14,7 @@
 
 Original video link: https://www.youtube.com/watch?v=VGslOJC2sgQ
 [0:04-0:06]
-<img src="vgtu_org.gif" width="910" height="512" align="center">
+<img src="examples/vgtu_org.gif" width="910" height="512" align="center">
 
 ### Experiments:
 
